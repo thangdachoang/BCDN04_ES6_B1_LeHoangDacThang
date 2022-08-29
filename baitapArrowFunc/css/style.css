@@ -557,7 +557,7 @@ body {
 }
 
 .color-button.active::after {
-  transform: translate(-300%, -50%);
+  transform: translate(-200%, 0%);
   opacity: 1;
 }
 
